@@ -1,3 +1,7 @@
+**Author**: [@msachi](https://github.com/msachi)  
+
+**Maintainer**: [@msachi](https://github.com/msachi)
+
 ## hapi.js - introductory code-along
 
 _Before we start, please clone this repo. It contains the `public` folder with some example files (`html`,`css`,`js`) which we will practice serving using hapi. If you prefer you can create your own `public` folder with arbitrary files._
