@@ -1,6 +1,6 @@
-**Author**: [@marisid](https://github.com/marisid)  
+**Author**: [@msachi](https://github.com/msachi)  
 
-**Maintainer**: [@marisid](https://github.com/marisid)
+**Maintainer**: [@msachi](https://github.com/msachi)
 
 ## hapi.js - introductory code-along
 
